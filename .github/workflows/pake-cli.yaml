@@ -12,7 +12,7 @@ on:
           - "macos-latest"
           - "ubuntu-20.04"
       url:
-        description: "[URL]"
+        description: "http://192.168.1.150:8080/?w=12&deviceCode=11#/enterprise"
         required: true
       name:
         description: "[Name]"
